@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faresll&label=Profile%20views&color=0e75b6&style=flat" alt="faresll" /> </p>
 
-- 🔭 I’m currently working on **SYSGOT**
+- 🔭 I’m currently working on **TELEOCEANS**
 
 - 🌱 I’m currently working on **Laravel**
 
