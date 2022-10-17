@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faresll&label=Profile%20views&color=0e75b6&style=flat" alt="faresll" /> </p>
 
-- 🔭 I’m currently working on **Teleoceans**
+- 🔭 I’m currently working in **Teleoceans**
 
-- 🌱 I’m currently working on **Laravel**
+- 🌱 I’m currently working using **Laravel**
 
 - 👯 I’m looking to collaborate on **big projects.**
 
