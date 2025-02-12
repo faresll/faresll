@@ -17,7 +17,7 @@
 - 🌱 Currently working with **Laravel, APIs, and database optimization**  
 - 🤝 Open to collaborating on **enterprise-level projects**  
 - 📩 Reach me at **[eng.fares.alsayed@gmail.com](mailto:eng.fares.alsayed@gmail.com)**  
-- 📄 [**View My Resume**]([https://drive.google.com/file/d/1ML6qQfHGvRzv4Mvy6p07vWcdf0pSEBtf/view?usp=sharing](https://drive.google.com/file/d/1Nos8-WjFA5drRR_KMkAnaU74P69-iDUJ/view?usp=sharing))  
+- 📄 [**View My Resume**](https://drive.google.com/file/d/1ML6qQfHGvRzv4Mvy6p07vWcdf0pSEBtf/view?usp=sharing](https://drive.google.com/file/d/1Nos8-WjFA5drRR_KMkAnaU74P69-iDUJ/view?usp=sharing)
 
 ---
 
